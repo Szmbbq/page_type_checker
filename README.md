@@ -55,7 +55,7 @@ print(check_page_type(html_str))    # html_str is the Unicode string of the page
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
 
 ## Acknowledgments
 
